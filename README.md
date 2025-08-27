@@ -73,7 +73,7 @@ Air-Quality-Analysis/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/[your-username]/Air-Quality-Analysis.git
+git clone https://github.com/harshajain6114/Air-Quality-Analysis-of-Indian-Cities-from-2015-2024
 cd Air-Quality-Analysis
 ```
 
