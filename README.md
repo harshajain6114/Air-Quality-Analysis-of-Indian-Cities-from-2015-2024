@@ -150,9 +150,9 @@ The project demonstrates proficiency in end-to-end data analysis, from raw data 
 
 ## Author
 
-[Your Name]  
+Harsha Jain
 Data Analytics Enthusiast  
-[Your Email] | [LinkedIn Profile] | [Portfolio Website]
+harshajain6114@gmail.com | linkedin.com/in/harsha-jain-b1859b287 | https://github.com/harshajain6114/
 
 ## License
 
